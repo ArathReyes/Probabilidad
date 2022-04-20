@@ -3,10 +3,15 @@ Repositorio con los notebooks de la clase de Probabilidad I (2022-1) y Probabili
 
 
 <p align="center">
-   <img src="https://magiamerlos.com/wp-content/uploads/2020/06/64946-alt2.png"/>
+   <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/rw.png"/>
 </p>
 
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/montint.png"/>
+</p>
+
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/poi.png"/>
 </p>
