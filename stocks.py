@@ -30,12 +30,12 @@ def MonteCarlo(days, Y0, target, nsim, sigma =1):
         df, c[i] = StockMonteCarlo(days, Y0, target, sigma)
         ax = sns.lineplot(x = "Days", y = "Price", data = df)
     plt.axhline(y = target, ls = '--',color = 'black',label = "Objetivo")
-    ax.set_title("Stock Monte Carlo, Simulations: {0}".format(nsim))
+    ax.set_title("Stock Monte Carlo, Simulations: {0}, Sigma: {1}".format(nsim, sigma))
     plt.show()
     return c.mean()
 
-days, Y0, target, sigma = 10, 100, 105, 1
-nsim = 2500
+days, Y0, target, sigma = 1000, 100, 105, 1
+nsim = 500
  
 
 df, aux = StockMonteCarlo(days, Y0, target, sigma)
