@@ -6,6 +6,10 @@ Repositorio con los notebooks de la clase de Probabilidad I (2022-1) y Probabili
    <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/rw.png"/>
 </p>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/100days.png"/>
+</p>
+
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/montint.png"/>
