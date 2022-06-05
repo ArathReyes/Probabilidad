@@ -15,3 +15,7 @@ Repositorio con los notebooks de la clase de Probabilidad I (2022-1) y Probabili
 <p align="center">
    <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/displot.png"/>
 </p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ArathReyes/Probabilidad/main/gallery/montyhall.png"/>
+</p>
